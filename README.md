@@ -23,8 +23,10 @@ assessing asset price bubble risk using real estate and macroeconomic data.
 | File | Description |
 |------|-------------|
 | `README.md` | Project overview |
+| `toronto_housing_analysis.py` | Python regression scripts |
 | `toronto_housing_analysis_report.pdf` | Full written report |
 | `toronto_housing_regression.do` | Stata regression scripts |
+
 
 ## Data Sources
 - Statistics Canada — [statcan.gc.ca](https://www.statcan.gc.ca)
